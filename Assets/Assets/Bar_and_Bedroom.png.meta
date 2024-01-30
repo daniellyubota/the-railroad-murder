@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: 62c1a9f011ea4b04eb0b33dd83fb48b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4743419354514851673
+    second: Bar_and_Bedroom_0
+  - first:
+      213: 7452256707666577213
+    second: Bar_and_Bedroom_1
+  - first:
+      213: -1031181055688699697
+    second: Bar_and_Bedroom_2
+  - first:
+      213: -8165712586838698521
+    second: Bar_and_Bedroom_3
+  - first:
+      213: -7946115412492085855
+    second: Bar_and_Bedroom_4
+  - first:
+      213: 2176136900819313060
+    second: Bar_and_Bedroom_5
+  - first:
+      213: -3457801489143246972
+    second: Bar_and_Bedroom_6
+  - first:
+      213: -8403440818347046217
+    second: Bar_and_Bedroom_7
+  - first:
+      213: -4651579127702347626
+    second: Bar_and_Bedroom_8
+  - first:
+      213: 4182891636859039673
+    second: Bar_and_Bedroom_9
+  - first:
+      213: -828143351060267773
+    second: Bar_and_Bedroom_10
+  - first:
+      213: 3168631693275024120
+    second: Bar_and_Bedroom_11
+  - first:
+      213: -2340893128405932188
+    second: Bar_and_Bedroom_12
+  - first:
+      213: -2265927419938968553
+    second: Bar_and_Bedroom_13
+  - first:
+      213: 3535404361610039316
+    second: Bar_and_Bedroom_14
+  - first:
+      213: -8710599098352545036
+    second: Bar_and_Bedroom_15
+  - first:
+      213: -6786178048669581778
+    second: Bar_and_Bedroom_16
+  - first:
+      213: 8206524825592880270
+    second: Bar_and_Bedroom_17
+  - first:
+      213: -923348662285227245
+    second: Bar_and_Bedroom_18
+  - first:
+      213: 8626535127863291252
+    second: Bar_and_Bedroom_19
+  - first:
+      213: -9155842595959944295
+    second: Bar_and_Bedroom_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 514
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8fd619a3dfb2eb0800000000000000
+      internalID: -4743419354514851673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 743
+        width: 451
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d370d7bedfbbb6760800000000000000
+      internalID: 7452256707666577213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 742
+        width: 183
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc010941b4280b1f0800000000000000
+      internalID: -1031181055688699697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 681
+        width: 326
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e51b838aaf8dae80800000000000000
+      internalID: -8165712586838698521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_4
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 463
+        width: 36
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a51726f12ab9b190800000000000000
+      internalID: -7946115412492085855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 440
+        width: 129
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a164fb4bf0333e10800000000000000
+      internalID: 2176136900819313060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 450
+        width: 346
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fccc7addb6300d0800000000000000
+      internalID: -3457801489143246972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 390
+        width: 186
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba086b591bf06b80800000000000000
+      internalID: -8403440818347046217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_8
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 577
+        width: 124
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6902ea0bd65427fb0800000000000000
+      internalID: -4651579127702347626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_9
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 577
+        width: 195
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf6fe428cd9c0a30800000000000000
+      internalID: 4182891636859039673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 409
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d73f88208d184f0800000000000000
+      internalID: -828143351060267773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_11
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 425
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac3b5acbd39fb20800000000000000
+      internalID: 3168631693275024120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_12
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 425
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46726303a1a738fd0800000000000000
+      internalID: -2340893128405932188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_13
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 425
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c68b7540fcd80e0800000000000000
+      internalID: -2265927419938968553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_14
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 432
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41012271987401130800000000000000
+      internalID: 3535404361610039316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_15
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 432
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2dbd1554cbd1780800000000000000
+      internalID: -8710599098352545036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_16
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 412
+        width: 65
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2efe7af407a2d1a0800000000000000
+      internalID: -6786178048669581778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 370
+        width: 496
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c53ed49de63e170800000000000000
+      internalID: 8206524825592880270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 586
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b28a4a84b9f23f0800000000000000
+      internalID: -923348662285227245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 586
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d68b25efb97b770800000000000000
+      internalID: 8626535127863291252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_and_Bedroom_20
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 40
+        width: 319
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bca603ba9efe080800000000000000
+      internalID: -9155842595959944295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bar_and_Bedroom_0: -4743419354514851673
+      Bar_and_Bedroom_1: 7452256707666577213
+      Bar_and_Bedroom_10: -828143351060267773
+      Bar_and_Bedroom_11: 3168631693275024120
+      Bar_and_Bedroom_12: -2340893128405932188
+      Bar_and_Bedroom_13: -2265927419938968553
+      Bar_and_Bedroom_14: 3535404361610039316
+      Bar_and_Bedroom_15: -8710599098352545036
+      Bar_and_Bedroom_16: -6786178048669581778
+      Bar_and_Bedroom_17: 8206524825592880270
+      Bar_and_Bedroom_18: -923348662285227245
+      Bar_and_Bedroom_19: 8626535127863291252
+      Bar_and_Bedroom_2: -1031181055688699697
+      Bar_and_Bedroom_20: -9155842595959944295
+      Bar_and_Bedroom_3: -8165712586838698521
+      Bar_and_Bedroom_4: -7946115412492085855
+      Bar_and_Bedroom_5: 2176136900819313060
+      Bar_and_Bedroom_6: -3457801489143246972
+      Bar_and_Bedroom_7: -8403440818347046217
+      Bar_and_Bedroom_8: -4651579127702347626
+      Bar_and_Bedroom_9: 4182891636859039673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
